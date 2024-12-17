@@ -19,5 +19,5 @@
 @Date
 public class Team {
 privae Integer id;
-private String id;
-}
+private String name;
+}'''
